@@ -9,7 +9,7 @@ const Footer = () => {
       </p>
       <p className="paragraph colwhite">
         Desenvolvido por alunos esforçados e dedicados do Marcelo Tuba que nos ensinou tudo que era necessário para realização deste site.{" "}
-        <a href="https://github.com/tejash023">
+        <a href="https://github.com/Muril0Reis">
           {" "}
           <FiGithub color="white" size="1rem" to="/about" />{" "}
         </a>
