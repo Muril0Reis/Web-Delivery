@@ -56,25 +56,12 @@ export const address = [
     Address: "Av. Independência, 846 - Independência, Taubaté - SP, 12031-001",
     AddressType: "Faculdade",
   },
-
-  {
-    id: 229,
-    Name: "Vênus Show Bar",
-    Address: "Rv - Rod. Ver. Abel Fabrício Dias, 03900 - Jardim Morumbi, Pindamonhangaba - SP, 12402-020",
-    AddressType: "Casa de Maldade +18",
-  },
   {
     id: 234,
     Name: "Casa do Henry",
     Address: "R. José Giórgio, 84 - São BeneditoPindamonhangaba - SP, 12410-220",
     AddressType: "Casa da Maldade +18 Parte 2",
-  },
-  {
-    id: 238,
-    Name: "Mansão do P.Diddy",
-    Address: "R. Lagoinha, 82 - Conj. Hab. Terra dos Ipes II (Fase II)Pindamonhangaba - SP, 12444-130",
-    AddressType: "Mansão do P.Diddy",
-  },
+  }
 ];
 
 //LEGACY
